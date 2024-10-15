@@ -1,8 +1,3 @@
-Here’s the complete **README.md** content formatted for easy copying and pasting into your README section. Just copy the entire block below and paste it into your `README.md` file:
-
-```markdown
-# Comic Book Store API
-
 This is a backend API for managing a comic book store. It allows users to perform CRUD operations on comic book inventory, including creating, reading, updating, and deleting comic books.
 
 ## Table of Contents
